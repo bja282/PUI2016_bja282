@@ -21,4 +21,4 @@ The plot strikes me as honest. In class, we discussed whether zooming in to the 
 
 ###<b>Suggestions:</b>
 
-I think that including a trend line or two could make this graph even more interesting. Clearly, the price has increased over the past year or so, but a trend line would help draw conclusions about the pace of this increase. 
+I think that including a trend line or fitting a curve to the graph could make this graph even more interesting. Clearly, the price has increased over the past year or so, but a trend line would help draw conclusions about the pace of the increase. 
