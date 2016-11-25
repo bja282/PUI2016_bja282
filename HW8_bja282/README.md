@@ -1,10 +1,4 @@
-# HW 4
+# HW 8
 
 ## Assignment 1
-For Assignment 1, I worked with Enrique, Sofiya and Sebastian. I followed and completed Professor Bianco's skeleton notebook to the best of my ability. For fitting the line to the regression plot, I used an article published (and referenced in my Notebook) by Wired Magazine online. 
-
-## Assignment 2
-Working with Sebastian and Sofiya, I conducted a z-test on my Citibike analysis from Homework 3. I then re-uploaded that file with the results of that test. Sebastian, Sofiya, Jonathan and I completed our write up together on Authorea, working in a collaborative process to put together a description of our work and results. Our authorea write up is available here: https://www.authorea.com/users/106032/articles/134117/. 
-
-# FBB 
-well done, see comments in the authorea article
+For Assignment 1, I continued working through the lab started during Julia Lane's lab. I worked with Sebastian, Scott, Jonathan, Sofiya, Marc, and Bailey on the assignment. The assignment proved challenging in that the three datasets required to complete it each required wrangling and cleaning, and then additional work in order to eventually merge them together. Each of the data sources included extraneous information that needed to be either dropped or combined with other data in order to be assessed. Ultimately, I was able to wrangle all the data and complete the assignment. 
