@@ -5,3 +5,6 @@ For Assignment 1, I worked with Enrique, Sofiya and Sebastian. I followed and co
 
 ## Assignment 2
 Working with Sebastian and Sofiya, I conducted a z-test on my Citibike analysis from Homework 3. I then re-uploaded that file with the results of that test. Sebastian, Sofiya, Jonathan and I completed our write up together on Authorea, working in a collaborative process to put together a description of our work and results. Our authorea write up is available here: https://www.authorea.com/users/106032/articles/134117/. 
+
+# FBB 
+well done, see comments in the authorea article
