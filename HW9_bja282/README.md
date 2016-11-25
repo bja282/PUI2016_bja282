@@ -1,10 +1,4 @@
-# HW 4
+# HW 9
 
-## Assignment 1
-For Assignment 1, I worked with Enrique, Sofiya and Sebastian. I followed and completed Professor Bianco's skeleton notebook to the best of my ability. For fitting the line to the regression plot, I used an article published (and referenced in my Notebook) by Wired Magazine online. 
+For this assignment, I worked with Scott, Jonathan, Sofiya, Marc, Tyler and Bailey. Though I was ultimately unable to finish the assignment, I completed task 1 and was able to idetify that an event had indeed occurred and caused a massive drop in MTA swipes of all fare type. After calculating the date of the event, it became clear that Hurricane Sandy was the event responsible; the MTA closed the subways in anticipation in the storm, causing the drop. 
 
-## Assignment 2
-Working with Sebastian and Sofiya, I conducted a z-test on my Citibike analysis from Homework 3. I then re-uploaded that file with the results of that test. Sebastian, Sofiya, Jonathan and I completed our write up together on Authorea, working in a collaborative process to put together a description of our work and results. Our authorea write up is available here: https://www.authorea.com/users/106032/articles/134117/. 
-
-# FBB 
-well done, see comments in the authorea article
