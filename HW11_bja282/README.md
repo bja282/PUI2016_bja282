@@ -1,7 +1,9 @@
-# HW 10
+# HW 11
+
+For these assignments I worked with Sebastian, Sofiya, Jonathan, Scott, Tyler, Bailey, and Fernando. 
 
 ## Assignment 1
-For Assignment 1, I finished the lab notebook from class, tweaking and making additions where necessary. In particular, I focused on making sure that all charts had proper explanations and labels. I also changed how the MonthlyAve column was being calculated, from .sum() to .mean(), which seemed more appropriate given that it was supposed to be an average across months, as opposed to a count of rides. In discussion with Jonathan and Scott, we agreed that this also seemed to eliminate potential bias resulting from the age of the stations, as some of the stations were most certainly new during the timeframe being studied. 
+For Assignment 1, I successfully filtered the dataframe to just Brooklyn, but initially struggled with getting CUSP's point to plot on the map. I was able to successfully achieve this with the help of groupmates Scott and Sofiya. 
 
 ## Assignment 2
-I worked with Scott, Jonathan, Bailey and Tyler on this assignment. The bulk of my efforts were spent on separating the rides for each of the seasons, and then setting up visual comparisons side by side to observe and analyze differences in ridership between the seasons.
+I spent time wih Tyler, Sofiya, Bailey and Scott cleaning the data, which took a significant amount of time. Following that, I worked with Sebastian, Sofiya and Jonathan on finishing the clustering and mapping the values. After initially choosing 5 clusters, I retrofitted the number to 2, which appeared to be the number of clusters on the dendrogram to see if there was any correlation between the two. It appeared as though there was, but I need to explore whether it was poor practice to diminish the clusters after the fact on the kmeans to match the apparent calculations yielded by the dendrogram. I used the following tutorial to plot the kmeans clusters and their centroids as a scatter plot: https://www.codementor.io/python/tutorial/data-science-python-pandas-r-dimensionality-reduction. 
